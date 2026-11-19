@@ -1,0 +1,6 @@
+{
+  "name": "VIP Hill Climb",
+  "description": "A 2D physics-based hill climb driving game featuring parody VIP bobblehead drivers, luxury vehicles, a jet-powered racer, upgrades, and synthesized audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
